@@ -1,0 +1,24 @@
+name: Request posts
+description: Request posts ideas here.
+title: "[REQUEST]: "
+labels: ["request"]
+assignees:
+  - invalidlenni
+body:
+  - type: textarea
+    id: describe-idea
+    attributes:
+      label: Description
+      description: Describe the blog post idea.
+      placeholder: Tell me what do you wish.
+      value: "another vs article"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
