@@ -1,4 +1,4 @@
-blank_issue_templates: false
+blank_issues_enabled: false
 contact_links: 
    - name: dev.to profile 
      url: https://dev.to/invalidlenni
