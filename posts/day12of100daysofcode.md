@@ -1,11 +1,12 @@
 ---
 title: Day 12 of 100DaysOfCode
-published: false
+published: true
 description: Day 12 of 100DaysOfCode
 tags: '100daysofcode, backend, todayilearned'
 cover_image: ./assets/100-days-of-code.jpg
 canonical_url: null
 id: 985653
+
 ---
 
 ## Day 12 of 100 Days Of Code
