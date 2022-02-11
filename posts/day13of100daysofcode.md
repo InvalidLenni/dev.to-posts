@@ -3,7 +3,7 @@ title: Day 12 of 100DaysOfCode
 published: false
 description: Day 12 of 100DaysOfCode
 tags: '100daysofcode, backend, todayilearned'
-cover_image: ./assets/100daysofcode.jpg
+cover_image: ./assets/100-days-of-code.jpg
 canonical_url: null
 
 ---
