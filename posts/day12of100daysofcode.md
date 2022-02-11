@@ -6,7 +6,7 @@ tags: '100daysofcode, backend, todayilearned'
 cover_image: ./assets/100-days-of-code.jpg
 canonical_url: null
 id: 985653
-
+date: '2022-02-11T06:14:45Z'
 ---
 
 ## Day 12 of 100 Days Of Code
