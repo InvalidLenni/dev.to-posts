@@ -16,7 +16,7 @@ Here can you find what I learned (& published) yesterday.
 
 ### What I published / coded (/ updated) yesterday?
 
-* Day 11 of 100DaysOfCode started with...
+* Day 12 of 100DaysOfCode started with...
 
 * Deploy the [AntiScamBot backend](https://github.com/AntiScamBot/backend)
 
