@@ -5,7 +5,8 @@ description: Day 14 of 100DaysOfCode
 tags: '100daysofcode, github, webdev, template'
 cover_image: ./assets/100-days-of-code.jpg
 canonical_url: null
-
+id: 987369
+date: '2022-02-12T21:19:05Z'
 ---
 
 ## Day 14 of 100 Days Of Code
